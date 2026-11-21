@@ -8,7 +8,7 @@ Senior Flutter Developer based in Cairo, Egypt. I build and ship production mobi
 - Strong background in Clean Architecture and scalable app design
 - Experience shipping end to end: from UI to state management, APIs, payments, and release pipelines
 - BSc in Computer Science, Zagazig University (2020-2024)
-
+- Many of my important production projects are in private repositories.
 ## Tech stack
 
 - **Languages:** Dart
